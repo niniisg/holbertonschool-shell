@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH ls -1 | WC -1 
+ls -1 | WC -1 $PATH
