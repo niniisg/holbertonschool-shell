@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -n PATH
+echo PATH | tr -s '.' '\n' | WC -l
