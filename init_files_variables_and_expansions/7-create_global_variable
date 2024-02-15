@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST_"School"
+Export Global_var="BEST=School"
